@@ -51,6 +51,8 @@
   },
   "eslint.format.enable": true,
 
+  "files.eol": "\n",
+
   // todohithlight config
   "todohighlight.isEnable": true,
   "todohighlight.isCaseSensitive": true,
